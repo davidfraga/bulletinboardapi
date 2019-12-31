@@ -11,6 +11,6 @@ This project was created using:
  - Tomcat Embedded (port 8090)
 
 The database connection settings are:
-user: cers
-password: cers2019
-table: warning
+- user: cers
+- password: cers2019
+- table: warning
